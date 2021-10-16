@@ -1,8 +1,9 @@
-﻿using System;
+using System;
 
 namespace DroneOfTheFuture.App.Dominio
 {
-    public class Class1
+    public class Pedido
     {
     }
+    
 }
