@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ICD81gqQ/cCmEssVpt39XU1cWea2lgiw6dgfv1ozexhPGo0G5qZeomedG3i7gUTn4yYaOyExx80zN33vIE+HNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GEOVANNY\\Development\\csharp\\droneofthefuture\\DroneOfTheFuture.App\\DroneOfTheFuture.App.Persistencia\\DroneOfTheFuture.App.Persistencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
